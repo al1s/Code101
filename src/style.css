@@ -48,7 +48,7 @@ body {
 }
 
 .main__img {
-  background-image: url("../img/Charles_Babbage_-_1860.jpg");
+  background-image: url("/img/Charles_Babbage_-_1860.jpg");
   background-size: cover;
   background-position: top center;
   margin: 0 auto;
