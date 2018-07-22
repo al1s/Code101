@@ -1,24 +1,24 @@
 {
-  "name": "project",
+  "name": "babbage_tribute",
   "version": "1.0.0",
-  "description": "Project desc",
+  "description": "Charles Babbage tribute page",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/al1s/ProjectName.git"
+    "url": "git+https://github.com/al1s/Code101.git"
   },
   "keywords": [
-    "FreeCodeCamp"
+    "CodeFellows"
   ],
   "author": "alstof",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/al1s/ProjectName/issues"
+    "url": "https://github.com/al1s/Code101/issues"
   },
-  "homepage": "https://github.com/al1s/ProjectName#readme",
+  "homepage": "https://github.com/al1s/Code101#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-preset-env": "^1.6.0",
